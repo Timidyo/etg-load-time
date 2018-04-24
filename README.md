@@ -1,0 +1,68 @@
+AVERAGE PAGE LOAD TIME
+  Pingdom: 3.5 seconds
+  GTMetrix: 3.65 seconds
+  WebPageTest: 4.6 seconds
+GOOGLE RATING
+  https/www: 99 (mobile) / 84 (desktop)
+    Server Response Time: .22 seconds 
+  non-https/non-www: 73 (mobile) / 91(desktop)
+    Server Response Time: .89 seconds
+  
+1. EDITS
+  1.1. WordPress Edits
+    Disabled wp-emoji-release.min.js
+  1.2. Server Edits
+    Re-enabled Cloudflare's Railgun feature
+    
+2. Plugins
+  2.1 Active
+    404page - your smart custom 404 error page
+    Acunetix Secure WordPress
+    Akismet Anti-Spam
+    Anti-Malware Security and Brute-Force Firewall
+    Autoptimize
+    Cache Enabler
+    Contact Form 7
+    Contact Form 7 - Success Page Redirects
+    Contact Form 7 MailChimp Extension
+    Cookie Consent
+    Custom Permalinks
+    Dequeue Font Awesome
+    Disable Google Fonts
+    Duplicate Post
+    Jetpack by WordPress.com
+    Monarch Plugin
+    Monarch Sharing Shortcode
+    Page Speed Optimization
+    Phoenix Media Rename
+    Popup Maker
+    SBI! for WP
+    SI Captcha Anti-Spam
+    Surbma - Yoast SEO Breadcrumb Shortcode
+    UpdraftPlus - Backup/Restore
+    WP Disable
+    WP-Optimize
+    Yoast SEO
+  
+  2.2 Disabled
+    Backup/Restore Divi Theme Options
+    Broken Link Checker
+    Coming Soon Page & Maintenance Mode by SeedProd
+    Elegant Themes Support
+    OneSignal Push Notifications
+    P3 (Plugin Performance Profiler)
+    PHP Code Widget
+    PHP Compatibility Checker
+    Post Snippets
+    Pretty Links
+    SG Optimizer
+    Simple Sitemap
+    Sticky Menu (or Anything!) on Scroll
+    Sucuri Security - Auditing, Malware Scanner and Hardening
+    Velvet Blues Update URLs
+    W3 Total Cache
+    Wordfence Security
+    WP Fastest Cache
+    WP Limit Login Attempts
+    WP Performance Score Booster
+    WP Super Cache
