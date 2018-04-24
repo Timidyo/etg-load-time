@@ -11,7 +11,10 @@ GOOGLE RATING
 1. EDITS
   1.1. WordPress Edits
     Disabled wp-emoji-release.min.js
+    Limited active caching plugins to one (Cache Enabler)
+    Installed WP Disable to stop unneeded WP processes
   1.2. Server Edits
+    Enabled Cloudflare
     Re-enabled Cloudflare's Railgun feature
     Added New Page Rule 
 
