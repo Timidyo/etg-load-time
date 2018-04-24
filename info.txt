@@ -13,6 +13,7 @@ GOOGLE RATING
     Disabled wp-emoji-release.min.js
   1.2. Server Edits
     Re-enabled Cloudflare's Railgun feature
+    Added New Page Rule 
 
 2. Plugins
   2.1 Active
