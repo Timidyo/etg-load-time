@@ -1,4 +1,4 @@
-AVERAGE PAGE LOAD TIME
+AVERAGE PAGE LOAD TIME 
   Pingdom: 3.5 seconds
   GTMetrix: 3.65 seconds
   WebPageTest: 4.6 seconds
