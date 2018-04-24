@@ -14,7 +14,7 @@ GOOGLE RATING
     Limited active caching plugins to one (Cache Enabler)
     Installed WP Disable to stop unneeded WP processes
   1.2. Server Edits
-    Enabled Cloudflare
+    Enabled and configured Cloudflare
     Re-enabled Cloudflare's Railgun feature
     Added New Page Rule 
 
