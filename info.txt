@@ -1,12 +1,12 @@
 AVERAGE PAGE LOAD TIME
-  Pingdom: 3.5 seconds
-  GTMetrix: 3.65 seconds
-  WebPageTest: 4.6 seconds
+  Pingdom: 2.5 seconds
+  GTMetrix: 3.3 seconds
+  WebPageTest: 3.67 seconds
 GOOGLE RATING
-  https/www: 99 (mobile) / 84 (desktop)
-    Server Response Time: .22 seconds
-  non-https/non-www: 73 (mobile) / 91(desktop)
-    Server Response Time: .89 seconds
+  https/www: 80 (mobile) / 93 (desktop)
+    Server Response Time: .62 seconds
+  non-https/non-www: 77 (mobile) / 94(desktop)
+    Server Response Time: .53 seconds
 
 1. EDITS
   1.1. WordPress Edits
