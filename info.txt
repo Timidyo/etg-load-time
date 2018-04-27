@@ -1,12 +1,12 @@
 AVERAGE PAGE LOAD TIME
-  Pingdom: 2.5 seconds
-  GTMetrix: 3.3 seconds
+  Pingdom: 1.97 seconds
+  GTMetrix: 2.7 seconds
   WebPageTest: 3.67 seconds
 GOOGLE RATING
-  https/www: 80 (mobile) / 93 (desktop)
-    Server Response Time: .62 seconds
-  non-https/non-www: 77 (mobile) / 94(desktop)
-    Server Response Time: .53 seconds
+  https/www: 75 (mobile) / 98 (desktop)
+    Server Response Time: .86 seconds
+  non-https/non-www: 69 (mobile) / 94(desktop)
+    Server Response Time: .98 seconds
 
 1. EDITS
   1.1. WordPress Edits
@@ -30,14 +30,12 @@ GOOGLE RATING
     Contact Form 7 - Success Page Redirects
     Contact Form 7 MailChimp Extension
     Cookie Consent
-    Custom Permalinks
+    Custom Permalinks 
     Dequeue Font Awesome
-    Disable Google Fonts
     Duplicate Post
     Jetpack by WordPress.com
     Monarch Plugin
     Monarch Sharing Shortcode
-    Page Speed Optimization
     Phoenix Media Rename
     Popup Maker
     SBI! for WP
@@ -52,8 +50,10 @@ GOOGLE RATING
     Backup/Restore Divi Theme Options
     Broken Link Checker
     Coming Soon Page & Maintenance Mode by SeedProd
+    Disable Google Fonts
     Elegant Themes Support
     OneSignal Push Notifications
+    Page Speed Optimization
     P3 (Plugin Performance Profiler)
     PHP Code Widget
     PHP Compatibility Checker
