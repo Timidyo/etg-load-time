@@ -1,7 +1,7 @@
 AVERAGE PAGE LOAD TIME
   Pingdom: 1.97 seconds
   GTMetrix: 2.7 seconds
-  WebPageTest: 3.67 seconds
+  WebPageTest: not tested, site down
 GOOGLE RATING
   https/www: 75 (mobile) / 98 (desktop)
     Server Response Time: .86 seconds
